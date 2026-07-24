@@ -1,3 +1,0 @@
-Q: What is the GIL (Global Interpreter Lock) in CPython, and how does it affect multi-threaded vs. multi-process Python programs?
-
-A: 
